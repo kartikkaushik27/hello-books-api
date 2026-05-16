@@ -10,5 +10,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: platform_learning_team
-  system: hellobooks_platform
+  owner: Platform_Learning_Team
+  system: HelloBooks_Platform
